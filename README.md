@@ -11,28 +11,46 @@ YTD Total Sales reached 371M, showing a strong yearly performance.
 MTD Total Sales is 54M, indicating healthy ongoing sales momentum.
 13K cars sold YTD, with 1,921 cars sold MTD, showing steady customer activity.
 
+<img width="1231" height="121" alt="image" src="https://github.com/user-attachments/assets/f0f0d2ea-b94b-44f4-8c02-cf98cd603c5b" />
+
+
 # Pricing Trends
 The YTD Average Price is 27.99K, while the MTD Average is 28.26K.
 A slight YOY decrease of -0.79% in average price shows minor drops in pricing compared to the previous year.
 Despite this, total revenue remains strong due to high sales volume.
+
+<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/3761616a-c10e-4c90-8025-12bf371afc6d" />
+
 
 # Body Style Performance
 SUVs lead with 100M in YTD sales, making them the most profitable segment.
 Hatchbacks, Sedans, Passenger cars, and Hardtops follow respectively.
 This indicates a clear customer preference for SUVs.
 
+<img width="335" height="298" alt="image" src="https://github.com/user-attachments/assets/4bab55a2-2759-453b-9655-43ed2bb5f600" />
+
+
 # Regional Performance
 Top-performing dealer regions include Austin (117M), Janesville (106M), and Scottsdale (96M).
 These regions significantly outperform others, suggesting strong demand concentration.
+
+<img width="540" height="299" alt="image" src="https://github.com/user-attachments/assets/2da60d37-9343-4516-928b-f4a843782929" />
+
 
 # Customer Preferences by Color
 Green-colored cars account for 48% of all sales, making it the most popular choice.
 Black cars follow at ~33% and red at ~19%.
 Color preference can guide inventory and marketing decisions.
 
+<img width="346" height="311" alt="image" src="https://github.com/user-attachments/assets/a521e6a7-d162-447c-90cd-67716453b9f5" />
+
+
 # Company-Level Insights
 Manufacturers like Ford, Chevrolet, BMW, and Audi contribute significantly to the overall sales.
 Companies with higher sales also tend to maintain competitive average pricing.
+
+<img width="484" height="283" alt="image" src="https://github.com/user-attachments/assets/a1dcf026-1e34-44d7-b2a1-0677ddbad967" />
+
 
 # Weekly Sales Trend
 The weekly sales chart shows a generally upward trend with peaks toward the end of the year (around week 45–50).
