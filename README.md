@@ -6,20 +6,16 @@ The dashboard serves as a decision-support tool for stakeholders, helping them u
 
 # ANALYSIS
 
-# Sales Performance Overview
+# Sales and Price Performance Overview
 YTD Total Sales reached 371M, showing a strong yearly performance.
 MTD Total Sales is 54M, indicating healthy ongoing sales momentum.
 13K cars sold YTD, with 1,921 cars sold MTD, showing steady customer activity.
 
-<img width="1231" height="121" alt="image" src="https://github.com/user-attachments/assets/f0f0d2ea-b94b-44f4-8c02-cf98cd603c5b" />
-
-
-# Pricing Trends
 The YTD Average Price is 27.99K, while the MTD Average is 28.26K.
 A slight YOY decrease of -0.79% in average price shows minor drops in pricing compared to the previous year.
 Despite this, total revenue remains strong due to high sales volume.
 
-<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/3761616a-c10e-4c90-8025-12bf371afc6d" />
+<img width="1231" height="121" alt="image" src="https://github.com/user-attachments/assets/f0f0d2ea-b94b-44f4-8c02-cf98cd603c5b" />
 
 
 # Body Style Performance
@@ -36,7 +32,6 @@ These regions significantly outperform others, suggesting strong demand concentr
 
 <img width="540" height="299" alt="image" src="https://github.com/user-attachments/assets/2da60d37-9343-4516-928b-f4a843782929" />
 
-
 # Customer Preferences by Color
 Green-colored cars account for 48% of all sales, making it the most popular choice.
 Black cars follow at ~33% and red at ~19%.
@@ -44,18 +39,18 @@ Color preference can guide inventory and marketing decisions.
 
 <img width="346" height="311" alt="image" src="https://github.com/user-attachments/assets/a521e6a7-d162-447c-90cd-67716453b9f5" />
 
-
 # Company-Level Insights
 Manufacturers like Ford, Chevrolet, BMW, and Audi contribute significantly to the overall sales.
 Companies with higher sales also tend to maintain competitive average pricing.
 
 <img width="484" height="283" alt="image" src="https://github.com/user-attachments/assets/a1dcf026-1e34-44d7-b2a1-0677ddbad967" />
 
-
 # Weekly Sales Trend
 The weekly sales chart shows a generally upward trend with peaks toward the end of the year (around week 45–50).
 Suggests seasonality or end-of-year promotional effects.
 Overall, the analysis shows strong yearly performance, clear customer preferences, and identifiable opportunities for better pricing and regional allocation strategies.
+
+<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/3761616a-c10e-4c90-8025-12bf371afc6d" />
 
 # PROCESS USED
 # 1. Data Collection
@@ -100,9 +95,8 @@ ealer Region
 Added drill-through capability and dynamic titles.
 Enabled conditional formatting for positive/negative YOY differences.
 
-<img width="1920" height="1080" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/36e863d1-c11a-44ba-9456-fe54f4e74a33" />
+<img width="1427" height="796" alt="image" src="https://github.com/user-attachments/assets/41b3b6cd-ad89-4fb0-824d-1b12b448a52e" />
 
-<img width="1920" height="1080" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/8406ced7-5be9-46a2-b7f2-628efaaea035" />
 
  INSIGHTS
 # Strong Year-to-Date (YTD) Sales Performance
