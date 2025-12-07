@@ -1,8 +1,7 @@
 # Car-Sales-Data-Analysis
 
 # INTRODUCTION
-This project focuses on analyzing car sales performance across different companies, regions, body styles, and customer preferences. The goal was to build an interactive dashboard that provides insights into Year-to-Date (YTD) and Month-to-Date (MTD) sales, average pricing trends, color preferences, and dealer performance. By transforming raw sales data into a clear and visually compelling dashboard, this project demonstrates strong data analytics skills, including data cleaning, modeling, DAX calculations, and interactive report design in Power BI.
-The dashboard serves as a decision-support tool for stakeholders, helping them understand key business drivers, identify top-performing regions and products, and evaluate changes in sales patterns over time. It reflects my ability to work with real-world datasets, uncover insights, and communicate findings effectively.
+This project focuses on analyzing car sales performance across different companies, regions, body styles, and customer preferences. The goal was to build an interactive dashboard that provides insights into Year-to-Date (YTD) and Month-to-Date (MTD) sales, average pricing trends, color preferences, and dealer performance.
 
 # ANALYSIS
 
